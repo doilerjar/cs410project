@@ -1,0 +1,5 @@
+44143
+Hand Simulator
+Hand simulator is such a game in which you can control your hands. Your task is to learn how to 
+work by your fingers well, how to master the art of shooting and to try to become the fastest and 
+the sharpest shooter in the whole wild west.

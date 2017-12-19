@@ -1,0 +1,3 @@
+46825
+Squash
+A turn-based military tactics game in which the player controls a squad of soldiers moving through enemy territory. It was released on the Super Famicom in Japan only.

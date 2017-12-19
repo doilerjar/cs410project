@@ -1,0 +1,3 @@
+9221
+Bionic Dues
+Bionic Dues is a tactical, turn-based roguelike with mech customization. Guide multiple classes of Exos through a variety of missions filled with enemy robots that are as buggy as they are angry. This is at least as bad as it sounds. Explore for loot, destroy key robotic facilities, and brace yourself for the final attack by your enemies... just as soon as they can pull it together.

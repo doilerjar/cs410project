@@ -1,0 +1,3 @@
+31248
+Microgons
+Microgons is a 1v1 online competitive turn-based strategy game.  Construct a team of polygonal monsters called Microgons, and strategically maneuver them across a board to engage them in combat against the opposing team.  Don't be fooled by its lighthearted look, this is a hardcore game.

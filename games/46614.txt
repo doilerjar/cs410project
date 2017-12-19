@@ -1,0 +1,9 @@
+46614
+Wadanohara and the Great Blue Sea
+Wadanohara and the Great Blue Sea is a pseudo-RPG with a heavy story focus, 
+made by Deep-Sea Prisoner in RPG Maker 2000. 
+ 
+A clear blue sea under a beautiful blue sky. 
+After a long departure, the sea witch Wadanohara travels back home with her familiars. 
+But her ex-familiar, the shark Samekichi, appears to block her way: 
+"You shouldn't be here... Leave this sea, right now."

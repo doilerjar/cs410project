@@ -1,0 +1,3 @@
+6619
+Delightful Wallpaper
+Interactive Fiction created by Andrew Plotkin. The player must solve a murder committed in a mansion.

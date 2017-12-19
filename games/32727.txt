@@ -1,0 +1,3 @@
+32727
+Dead Army - Radio Frequency
+Dead Army is a Real Time Strategy (RTS) game where the player takes control of an army of zombies. The player will be able to command each and every zombie in order to create the best strategy to raze military bases, villages and small towns. Given that controlling zombies is a feature, the player will also be able to increase its undead army through human infection.

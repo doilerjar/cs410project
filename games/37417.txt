@@ -1,0 +1,4 @@
+37417
+History2048 - 3D puzzle number game
+History 2048 is a familiar logic game, with beautiful graphics.  
+Travel trough the evolution of mankind, meet with famous kings, warlords and adventurer.

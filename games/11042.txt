@@ -1,0 +1,7 @@
+11042
+Catacomb
+Catacomb is a 2-D top-down third-person shooter created by John Carmack. It was originally created for the Apple II, and later ported to the PC. It should not be confused with The Catacomb, which is the second game in the series (originally named Catacomb II, but later renamed). It supports EGA and CGA graphics.
+
+In the game you play the magician Petton Everhail. At the start you are contacted by Terexin, High Wizard of the Kieralon who tells you how the Kieralon Empire has fallen. He convinces you to travel to the Kieralon Palace to collect his treasures and split them fifty-fifty.
+
+Catacomb consists of fifteen levels in the Apple II version, ten levels in the PC demo disk promoting Gamer's Edge, and 30 levels in the full PC version (The Catacomb, aka Catacomb II). To progress to the next level you must step through a magic teleportation mirror. These mirrors are usually behind a locked door, requiring you to obtain a key to advance.

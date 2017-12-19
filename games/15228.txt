@@ -1,0 +1,3 @@
+15228
+The Gambler
+A Mahjong game based on a manga about a prolific gambler. It's the first Super Famicom game in a long-running series, and was never released outside of Japan.

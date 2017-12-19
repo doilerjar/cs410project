@@ -1,0 +1,7 @@
+32336
+ERISLE
+is an ARPG created with the Unity5 game engine by an independent team.   
+  
+It combines currency and health into the same value to create unique changes in numbers and a brand new gaming experience.   
+ 
+We made a bold decision in designing the game’s stats system, where a player’s Shield (powered by energy),Ammunition and in-game currency are all represented by the same number, which is called “Energy” in the game.
