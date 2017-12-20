@@ -1,3 +1,0 @@
-35761
-Lord of the Dark Castle
-Lord of the Dark Castle is a casual turn-based retro style roguelike dungeon crawler with elements of strategy. Randomized levels, lots of skills without dependencies and lots of spells to cast. Challenging Monster AI - play it smart or die. Remember: Death is Permanent!

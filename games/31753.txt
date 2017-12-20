@@ -1,3 +1,0 @@
-31753
-CHEXS
-CHEXS is an evolution of chess, a new take on the old classic. It is a strategy game played on a hexagonal board where both sides move all of its pieces within a single turn, then all movements are solved simultaneusly.

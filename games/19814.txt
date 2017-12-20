@@ -1,3 +1,0 @@
-19814
-Dungeon Village
-A management game where you build a town in a fantasy rpg world to attract various heroes that go about their business killing monsters, finding treasures and clearing dungeons. In town they can (depending on what you build for them) buy items/equipment, rest, eat and even move in.

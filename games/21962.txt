@@ -1,7 +1,0 @@
-21962
-Lost Soul Aside
-An indie game being made in Unreal Engine 4 with Final Fantasy 15 art as a base that will be changed as the game develops. The game is currently a prototype.
-
-The game will be a timed-exclusive for PlayStation 4.
-
-"Lost Soul Aside is an action game with a fantasy art style, something like combining Final Fantasy with Ninja Gaiden."

@@ -1,5 +1,0 @@
-29509
-Green Elephant 2D
--This game is based on russian movie "Green elephant" or "Zeleniy slonik". This is a platformer/shooter game with quest elements and a lot of humor and fun moments. 
--The goal of the game is to find a key on diffent levels and run away from dangerous enemies and defeat powerfull bosses at the end of each level! 
--Main characters are two officers that try to run from the military jail. They will fight with different enemies on a lot of locations such as: "Jail", "Forest", "Beach", "Hospital" and so on.

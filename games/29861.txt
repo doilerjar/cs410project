@@ -1,3 +1,0 @@
-29861
-Five Elements
-Five Elements is a real time strategy game about managing energies of five Taoist elements (fire, earth, metal, water and wood). The hero is a monk in quest for Enlightenment.

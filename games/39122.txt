@@ -1,5 +1,0 @@
-39122
-Match Day II
-Match Day es un simulador de fútbol en el que cada equipo está formato por 7 jugadores (6 jugadores de campo y el portero)6 y las portería aparecían una a cada lado de la pantalla, teniendo que hacer scroll para llegar a ellas (vista lateral). 
- 
-Incluyó nuevas modalidades de juego así como la popular barra de nivel cuyo contenido controla la potencia del disparo. El juego tenía la posibilidad de realizar diferentes jugadas como golpes de cabeza, centros y tacones; todas ellas respondiendo rápidamente a los movimientos de los controles, lo que unido a su velocidad gráfica y diseño minucioso de los elementos - jugadores, cancha, público, balón; supuso una gran revolución en el mundo de los simuladores de la época.

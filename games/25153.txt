@@ -1,3 +1,0 @@
-25153
-The Queen of Hearts Maze Game
-Pac-Man clone in ASCII.

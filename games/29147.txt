@@ -1,3 +1,0 @@
-29147
-TARTARUS
-TARTARUS is an action/adventure game from first person perspective combined with text input. Developed by ABYSS GAMEWORKS and powered by Unreal Engine 4.

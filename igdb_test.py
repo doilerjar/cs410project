@@ -22,6 +22,7 @@ for i in range(500):
                 found = True
 
 # url = 'https://api-2445582011268.apicast.io/games/2?fields=*'
+filename = "games/games.dat"
 for game_id in rand_set:
     url = 'https://api-2445582011268.apicast.io/games/' + str(game_id) + '?fields=*'
 
@@ -30,7 +31,7 @@ for game_id in rand_set:
     req.add_header('Accept', 'application/json')
     response = urlopen(req).read()
     print(response)
-    filename = "games/" + str(game_id) + '.txt'
+    # filename = "games/" + str(game_id) + '.txt'
     game_data = response.decode("utf-8")
     try:
         game_data = ast.literal_eval(game_data)[0]
@@ -38,10 +39,12 @@ for game_id in rand_set:
         continue
     else:
         try:
-            output = str(game_data['id']) + '\n' + game_data['name'] + '\n' + game_data['summary'] + '\n'
+            summary = game_data['summary']
+            summary = summary.replace('\n','').replace('\r','')
+            output = str(game_data['id']) + ' ' + game_data['name'] + ' ' + summary + '\n'
         except:
             print("Error")
         else:
             print(output)
-            with open(filename,'w') as file:
+            with open(filename,'a') as file:
                 file.write(output)

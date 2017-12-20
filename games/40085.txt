@@ -1,3 +1,0 @@
-40085
-Land Sea Air Squad
-Land Sea Air Squad is a 2D top-down shooter, with similar gameplay like Ikari Warriors (and controls from Commando). The player is a soldier, who must defeat an enemy army. As in Ikari Warriors, the player can control vehicles - tanks, helicopters and boats. He has a gun with unlimited ammo and grenades. At the end of each level, the player must beat a heavily armed vehicle.
