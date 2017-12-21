@@ -9,7 +9,7 @@ import ast
 # Generate a random list of game id's
 rand_set = []
 
-for i in range(500):
+for i in range(1000):
     found = False
     while not found:
         rand_number = rand.randint(1, 50000)
@@ -41,7 +41,7 @@ for game_id in rand_set:
         try:
             summary = game_data['summary']
             summary = summary.replace('\n','').replace('\r','')
-            output = str(game_data['id']) + ' ' + game_data['name'] + ' ' + summary + '\n'
+            output = str(game_data['id']) + ' ' + game_data['name'] + ' ' + summary + ' .' + '\n'
         except:
             print("Error")
         else:

@@ -1,0 +1,11 @@
+index = "idx"
+corpus = "line.toml"
+dataset = "games"
+stop-words = "stopwords.txt"
+prefix = "."
+[ranker]
+	method = "bm25"
+[[analyzers]]
+	filter = "default-unigram-chain"
+	ngram = 1
+	method = "ngram-word"
