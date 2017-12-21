@@ -1,3 +1,10 @@
+'''
+CS410 Project
+Kevin Kang
+
+generate_gamedata.py uses igdb.com's REST api to collect a random list of games, and store them
+in games.dat file in metapy format
+'''
 try:
     from urllib.request import Request, urlopen  # Python 3
 except:
